@@ -1,3 +1,28 @@
 body{
 	background: beige;
 }
+
+
+#principal {
+	border: 2px solid;
+	text-align: center;
+	
+}
+
+.clear{
+	clear: both;
+}
+
+.img{
+	width: 200px;
+	height: 200px;
+}
+
+
+.fotosBaby{
+	border: 3px solid;
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin: 10px;
+}
